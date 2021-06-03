@@ -1,4 +1,4 @@
-# Acer TravelMate TX50 Hackintosh Opencore
+# Acer TravelMate TX50 Hackintosh OpenCore
 
 适用于 Acer TMTX50-G2-50D4
 
