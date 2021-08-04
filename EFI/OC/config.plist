@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>#OpenCore Version</key>
-	<string>0.7.1</string>
+	<string>0.7.2</string>
 	<key>#Laptop</key>
 	<string>Acer TMTX50-G2-50D4</string>
 	<key>#Modified by</key>
@@ -1033,7 +1033,7 @@
 			<key>ThirdPartyDrives</key>
 			<false/>
 			<key>XhciPortLimit</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>Scheme</key>
 		<dict>
@@ -1042,7 +1042,7 @@
 			<key>FuzzyMatch</key>
 			<true/>
 			<key>KernelArch</key>
-			<string>x86_64</string>
+			<string>Auto</string>
 			<key>KernelCache</key>
 			<string>Auto</string>
 		</dict>
@@ -1328,6 +1328,8 @@
 			<integer>50</integer>
 			<key>KeySubsequentDelay</key>
 			<integer>5</integer>
+			<key>GraphicsInputMirroring</key>
+			<true/>
 			<key>PointerSpeedDiv</key>
 			<integer>1</integer>
 			<key>PointerSpeedMul</key>
