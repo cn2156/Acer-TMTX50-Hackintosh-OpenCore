@@ -7,3 +7,9 @@
 睡眠唤醒有问题：黑屏、不能正常唤醒
 
 主要参考：https://dortania.github.io/OpenCore-Install-Guide/
+
+---
+
+## 2021-11-01
+更新至 0.7.4，支持 macOS Monterey 12.0.1
+- 蓝牙驱动不支持，暂时从BIOS中禁用，如需要蓝牙可不更新系统
